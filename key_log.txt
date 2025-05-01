@@ -1,0 +1,45 @@
+2025-05-01 14:40:00,269: Special key pressed: Key.shift
+2025-05-01 14:40:01,099: Special key pressed: Key.shift
+2025-05-01 14:40:01,611: Special key pressed: Key.shift
+2025-05-01 14:40:01,644: Special key pressed: Key.shift
+2025-05-01 14:40:01,672: Special key pressed: Key.shift
+2025-05-01 14:40:01,707: Special key pressed: Key.shift
+2025-05-01 14:40:01,731: Special key pressed: Key.shift
+2025-05-01 14:40:01,776: Special key pressed: Key.shift
+2025-05-01 14:40:01,808: Key pressed: S
+2025-05-01 14:40:02,196: Key pressed: a
+2025-05-01 14:40:02,397: Key pressed: m
+2025-05-01 14:40:02,674: Key pressed: p
+2025-05-01 14:40:02,854: Key pressed: l
+2025-05-01 14:40:03,043: Key pressed: e
+2025-05-01 14:40:03,243: Special key pressed: Key.space
+2025-05-01 14:40:03,542: Special key pressed: Key.shift
+2025-05-01 14:40:03,861: Key pressed: K
+2025-05-01 14:40:04,491: Key pressed: e
+2025-05-01 14:40:04,935: Key pressed: y
+2025-05-01 14:40:05,512: Key pressed: l
+2025-05-01 14:40:05,965: Key pressed: o
+2025-05-01 14:40:06,821: Key pressed: g
+2025-05-01 14:40:06,998: Key pressed: g
+2025-05-01 14:40:07,278: Key pressed: e
+2025-05-01 14:40:07,456: Key pressed: r
+2025-05-01 14:40:09,589: Special key pressed: Key.space
+2025-05-01 14:40:09,853: Special key pressed: Key.shift
+2025-05-01 14:40:10,356: Special key pressed: Key.shift
+2025-05-01 14:40:10,387: Special key pressed: Key.shift
+2025-05-01 14:40:10,419: Key pressed: !
+2025-05-01 14:40:10,596: Key pressed: !
+2025-05-01 14:40:10,915: Special key pressed: Key.space
+2025-05-01 14:40:11,372: Special key pressed: Key.shift
+2025-05-01 14:40:11,652: Key pressed: H
+2025-05-01 14:40:11,966: Key pressed: e
+2025-05-01 14:40:12,236: Key pressed: l
+2025-05-01 14:40:12,434: Key pressed: l
+2025-05-01 14:40:12,668: Key pressed: o
+2025-05-01 14:40:13,100: Key pressed: 1
+2025-05-01 14:40:13,406: Key pressed: 2
+2025-05-01 14:40:13,622: Key pressed: 3
+2025-05-01 14:40:14,112: Special key pressed: Key.shift
+2025-05-01 14:40:14,579: Key pressed: !
+2025-05-01 14:40:14,816: Key pressed: !
+2025-05-01 14:40:15,058: Key pressed: !
